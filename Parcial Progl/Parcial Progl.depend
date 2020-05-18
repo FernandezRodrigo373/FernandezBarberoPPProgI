@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589807037 source:c:\users\rodoo\onedrive\escritorio\pc\utn\tps\parcial progl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
